@@ -14,17 +14,20 @@ Perform the following steps before you start the challenge:
 1. Visit the [Kubernetes codebase](https://github.com/kubernetes/kubernetes) _(open in a new tab)_.
 2. Launch the GitHub Copilot Chat at the top-right corner of the interface _(Look for the ![copilot](https://github.com/user-attachments/assets/027fc880-2a7a-497d-8ed5-f5aade9a1753) icon)_.
 
+> [!Note] 
+> At the end of this exercise, you will be asked to copy and paste your chat conversation and commit it in your repo.
+
 ## Challenge Tasks
-Here are the tasks you need to complete. You will be prompting Copilot to perform the tasks. Remember to be creative with your prompts.
+Here are the tasks you need to complete. You are expected to prompt Copilot to perform the tasks. Remember to be creative with your prompts.
 
 ### 1. Identify Kubernetes Modules
-Review the key modules or components in the Kubernetes codebase, such as:
+Review the key modules or components and their responsibilities in the Kubernetes codebase, such as:
 - **API Server**
 - **Scheduler**
 - **Controller Manager**
 - **Kubelet**
 
-For the Scheduler module, provide answers to the following:
+For the `Scheduler` module, provide answers to the following:
 - **Primary Responsibility:** What is the module responsible for in Kubernetes' architecture?
 - **Interaction with Other Modules:** How does it interact with other components within the system?
 - **Role in Kubernetes:** What role does it play in Kubernetes' overall functionality (e.g., scheduling, state management, networking)?
@@ -45,3 +48,7 @@ Visualize the CSI Plugin code and its interactions by creating a **Mermaid JS di
 - The key components of the CSI Plugin.
 - How these components interact with each other.
 - The flow of data in the storage management process.
+
+### Conclusion
+- Highlight and copy your entire conversation
+- Within the challenge lab repo you created, create a conversation.md file and commit this text to the file (be sure to paste markdown styles as markdown).
