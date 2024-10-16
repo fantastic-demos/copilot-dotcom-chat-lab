@@ -1,7 +1,5 @@
-# copilot-dotcom-chat-lab
-Challenge exercises and hands-on laboratory on the Copilot Chat on the GitHub.com UI.
-
 # Kubernetes Codebase Analysis Challenge
+This is a challenge exercise and hands-on laboratory to help you get familiar with the Copilot Chat on the GitHub.com UI.
 
 ## Overview
 
@@ -11,7 +9,13 @@ You can find the Kubernetes codebase [here](https://github.com/kubernetes/kubern
 
 Your goal is to understand how the different components of Kubernetes interact and contribute to the overall functionality of the system. You will also have the opportunity to examine a real-world issue, propose a solution, and visualize parts of the code using **Mermaid JS**.
 
+## Before You Begin
+Perform the following steps before you start the challenge:
+1. Visit the [Kubernetes codebase](https://github.com/kubernetes/kubernetes) _(open in a new tab)_.
+2. Launch the GitHub Copilot Chat at the top-right corner of the interface _(Look for the ![copilot](https://github.com/user-attachments/assets/027fc880-2a7a-497d-8ed5-f5aade9a1753) icon)_.
+
 ## Challenge Tasks
+Here are the tasks you need to complete. You will be prompting Copilot to perform the tasks. Remember to be creative with your prompts.
 
 ### 1. Identify Kubernetes Modules
 Review the key modules or components in the Kubernetes codebase, such as:
@@ -20,7 +24,7 @@ Review the key modules or components in the Kubernetes codebase, such as:
 - **Controller Manager**
 - **Kubelet**
 
-For each module, provide answers to the following:
+For the Scheduler module, provide answers to the following:
 - **Primary Responsibility:** What is the module responsible for in Kubernetes' architecture?
 - **Interaction with Other Modules:** How does it interact with other components within the system?
 - **Role in Kubernetes:** What role does it play in Kubernetes' overall functionality (e.g., scheduling, state management, networking)?
