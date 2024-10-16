@@ -7,6 +7,8 @@ Challenge exercises and hands-on laboratory on the Copilot Chat on the GitHub.co
 
 Welcome to the **Kubernetes Codebase Analysis Challenge**! In this challenge, you will explore and analyze the structure of the Kubernetes codebase, with a particular focus on its key modules and the **CSI (Container Storage Interface) Plugin**.
 
+You can find the Kubernetes codebase [here](https://github.com/kubernetes/kubernetes).
+
 Your goal is to understand how the different components of Kubernetes interact and contribute to the overall functionality of the system. You will also have the opportunity to examine a real-world issue, propose a solution, and visualize parts of the code using **Mermaid JS**.
 
 ## Challenge Tasks
