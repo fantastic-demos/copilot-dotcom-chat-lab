@@ -13,7 +13,7 @@ Your goal is to understand how the different components of Kubernetes interact a
 
 ## Challenge Tasks
 
-### 1. Analyze Kubernetes Modules
+### 1. Identify Kubernetes Modules
 Review the key modules or components in the Kubernetes codebase, such as:
 - **API Server**
 - **Scheduler**
