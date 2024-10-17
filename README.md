@@ -52,10 +52,9 @@ Investigate **Kubernetes Issue #128071**:
 - **Generate the required code** to resolve the issue or suggest a potential solution.
 
 ### 5. Generate a Mermaid JS Diagram
-Visualise Kubernetes codebase by creating a **Mermaid JS diagram**. Your diagrams should depict:
+Visualise Kubernetes codebase by creating a **Mermaid JS diagram**. Your diagram should depict:
 - Overall structure and components of Kubernetes
-- Overall flow of Kubernetes .
-- The flow of data in the storage management process.
+- Overall flow of Kubernetes 
 
 ### Conclusion
 - Highlight and copy your entire conversation
