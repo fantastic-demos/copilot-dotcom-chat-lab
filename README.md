@@ -1,5 +1,6 @@
 # Kubernetes Codebase Analysis Challenge
 This is a challenge exercise and hands-on laboratory to help you get familiar with the Copilot Chat on the GitHub.com UI.
+
 <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="100">
 
 ## Overview
